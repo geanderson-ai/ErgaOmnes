@@ -1,0 +1,49 @@
+# Arquivos e diretórios gerados durante o desenvolvimento Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+Pipfile.lock
+Pipfile.resolved
+pip-wheel-metadata/
+
+# Arquivos de configuração
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log e cache
+*.log
+logs/
+*.sqlite
+*.db
+*.cache
+
+# Arquivos gerados durante a execução
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+
+# Dependências e arquivos de build
+*.egg-info/
+dist/
+build/
+
+# Ambientes de desenvolvimento
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+output_files/
